@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaApp", "SpaApp\SpaApp.csproj", "{BD7CDB15-A618-4D81-9759-E7137A4F911A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD7CDB15-A618-4D81-9759-E7137A4F911A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7CDB15-A618-4D81-9759-E7137A4F911A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7CDB15-A618-4D81-9759-E7137A4F911A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BD7CDB15-A618-4D81-9759-E7137A4F911A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7CDB15-A618-4D81-9759-E7137A4F911A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD7CDB15-A618-4D81-9759-E7137A4F911A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94BF32AC-869A-4592-888F-041A2B66B92E}
+	EndGlobalSection
+EndGlobal

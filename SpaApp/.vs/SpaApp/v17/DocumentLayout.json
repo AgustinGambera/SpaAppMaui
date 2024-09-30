@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|c:\\users\\agustin\\desktop\\proyecto vargas tpi\\spaappmaui\\spaapp\\spaapp\\viewmodels\\reservaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|solutionrelative:spaapp\\viewmodels\\reservaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|c:\\users\\agustin\\desktop\\proyecto vargas tpi\\spaappmaui\\spaapp\\spaapp\\viewmodels\\profesionalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|solutionrelative:spaapp\\viewmodels\\profesionalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|c:\\users\\agustin\\desktop\\proyecto vargas tpi\\spaappmaui\\spaapp\\spaapp\\viewmodels\\clienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|solutionrelative:spaapp\\viewmodels\\clienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|c:\\users\\agustin\\desktop\\proyecto vargas tpi\\spaappmaui\\spaapp\\spaapp\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|solutionrelative:spaapp\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|c:\\users\\agustin\\desktop\\proyecto vargas tpi\\spaappmaui\\spaapp\\spaapp\\viewmodels\\pagoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|solutionrelative:spaapp\\viewmodels\\pagoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|c:\\users\\agustin\\desktop\\proyecto vargas tpi\\spaappmaui\\spaapp\\spaapp\\views\\clientepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|solutionrelative:spaapp\\views\\clientepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|c:\\users\\agustin\\desktop\\proyecto vargas tpi\\spaappmaui\\spaapp\\spaapp\\views\\clientepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|solutionrelative:spaapp\\views\\clientepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|c:\\users\\agustin\\desktop\\proyecto vargas tpi\\spaappmaui\\spaapp\\spaapp\\views\\profesionalpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|solutionrelative:spaapp\\views\\profesionalpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|c:\\users\\agustin\\desktop\\proyecto vargas tpi\\spaappmaui\\spaapp\\spaapp\\views\\pagopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|solutionrelative:spaapp\\views\\pagopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|c:\\users\\agustin\\desktop\\proyecto vargas tpi\\spaappmaui\\spaapp\\spaapp\\views\\reservapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|solutionrelative:spaapp\\views\\reservapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|c:\\users\\agustin\\desktop\\proyecto vargas tpi\\spaappmaui\\spaapp\\spaapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|solutionrelative:spaapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|c:\\users\\agustin\\desktop\\proyecto vargas tpi\\spaappmaui\\spaapp\\spaapp\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|solutionrelative:spaapp\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|c:\\users\\agustin\\desktop\\proyecto vargas tpi\\spaappmaui\\spaapp\\spaapp\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|solutionrelative:spaapp\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|c:\\users\\agustin\\desktop\\proyecto vargas tpi\\spaappmaui\\spaapp\\spaapp\\models\\profesional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|solutionrelative:spaapp\\models\\profesional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|c:\\users\\agustin\\desktop\\proyecto vargas tpi\\spaappmaui\\spaapp\\spaapp\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|solutionrelative:spaapp\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|c:\\users\\agustin\\desktop\\proyecto vargas tpi\\spaappmaui\\spaapp\\spaapp\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CDB15-A618-4D81-9759-E7137A4F911A}|SpaApp\\SpaApp.csproj|solutionrelative:spaapp\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "SpaApp\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "SpaApp\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:57:17.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Views\\ClientePage.xaml.cs",
+              "RelativeDocumentMoniker": "SpaApp\\Views\\ClientePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Views\\ClientePage.xaml.cs",
+              "RelativeToolTip": "SpaApp\\Views\\ClientePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:55:40.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfesionalPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Views\\ProfesionalPage.xaml",
+              "RelativeDocumentMoniker": "SpaApp\\Views\\ProfesionalPage.xaml",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Views\\ProfesionalPage.xaml",
+              "RelativeToolTip": "SpaApp\\Views\\ProfesionalPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-29T23:53:07.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Views\\ClientePage.xaml",
+              "RelativeDocumentMoniker": "SpaApp\\Views\\ClientePage.xaml",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Views\\ClientePage.xaml",
+              "RelativeToolTip": "SpaApp\\Views\\ClientePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-29T23:51:28.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\ViewModels\\ClienteViewModel.cs",
+              "RelativeDocumentMoniker": "SpaApp\\ViewModels\\ClienteViewModel.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\ViewModels\\ClienteViewModel.cs",
+              "RelativeToolTip": "SpaApp\\ViewModels\\ClienteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:45:45.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PagoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\ViewModels\\PagoViewModel.cs",
+              "RelativeDocumentMoniker": "SpaApp\\ViewModels\\PagoViewModel.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\ViewModels\\PagoViewModel.cs",
+              "RelativeToolTip": "SpaApp\\ViewModels\\PagoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:46:20.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfesionalViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\ViewModels\\ProfesionalViewModel.cs",
+              "RelativeDocumentMoniker": "SpaApp\\ViewModels\\ProfesionalViewModel.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\ViewModels\\ProfesionalViewModel.cs",
+              "RelativeToolTip": "SpaApp\\ViewModels\\ProfesionalViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:46:37.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\ViewModels\\ReservaViewModel.cs",
+              "RelativeDocumentMoniker": "SpaApp\\ViewModels\\ReservaViewModel.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\ViewModels\\ReservaViewModel.cs",
+              "RelativeToolTip": "SpaApp\\ViewModels\\ReservaViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:46:08.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PagoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Views\\PagoPage.xaml",
+              "RelativeDocumentMoniker": "SpaApp\\Views\\PagoPage.xaml",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Views\\PagoPage.xaml",
+              "RelativeToolTip": "SpaApp\\Views\\PagoPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-29T23:52:44.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Views\\ReservaPage.xaml",
+              "RelativeDocumentMoniker": "SpaApp\\Views\\ReservaPage.xaml",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Views\\ReservaPage.xaml",
+              "RelativeToolTip": "SpaApp\\Views\\ReservaPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-29T23:50:30.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\App.xaml",
+              "RelativeDocumentMoniker": "SpaApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\App.xaml",
+              "RelativeToolTip": "SpaApp\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-29T23:47:03.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Models\\Pago.cs",
+              "RelativeDocumentMoniker": "SpaApp\\Models\\Pago.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Models\\Pago.cs",
+              "RelativeToolTip": "SpaApp\\Models\\Pago.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:39:46.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "SpaApp\\Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Models\\Reserva.cs",
+              "RelativeToolTip": "SpaApp\\Models\\Reserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:38:27.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Models\\Servicio.cs",
+              "RelativeDocumentMoniker": "SpaApp\\Models\\Servicio.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Models\\Servicio.cs",
+              "RelativeToolTip": "SpaApp\\Models\\Servicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:37:29.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Profesional.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Models\\Profesional.cs",
+              "RelativeDocumentMoniker": "SpaApp\\Models\\Profesional.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Models\\Profesional.cs",
+              "RelativeToolTip": "SpaApp\\Models\\Profesional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:33:11.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "SpaApp\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Proyecto Vargas TPI\\SpaAppMaui\\SpaApp\\SpaApp\\Models\\Cliente.cs",
+              "RelativeToolTip": "SpaApp\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:31:17.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

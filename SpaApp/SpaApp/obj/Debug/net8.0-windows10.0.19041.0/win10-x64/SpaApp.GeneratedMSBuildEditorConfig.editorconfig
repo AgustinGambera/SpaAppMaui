@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net8.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SpaApp
+build_property.ProjectDir = C:\Users\Agustin\Desktop\Proyecto Vargas TPI\SpaAppMaui\SpaApp\SpaApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Agustin/Desktop/Proyecto Vargas TPI/SpaAppMaui/SpaApp/SpaApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SpaApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Agustin/Desktop/Proyecto Vargas TPI/SpaAppMaui/SpaApp/SpaApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SpaApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Agustin/Desktop/Proyecto Vargas TPI/SpaAppMaui/SpaApp/SpaApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SpaApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Agustin/Desktop/Proyecto Vargas TPI/SpaAppMaui/SpaApp/SpaApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SpaApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Agustin/Desktop/Proyecto Vargas TPI/SpaAppMaui/SpaApp/SpaApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SpaApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Agustin/Desktop/Proyecto Vargas TPI/SpaAppMaui/SpaApp/SpaApp/Views/ClientePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SpaApp.Views.ClientePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ClientePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ClientePage.xaml
+
+[C:/Users/Agustin/Desktop/Proyecto Vargas TPI/SpaAppMaui/SpaApp/SpaApp/Views/PagoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SpaApp.Views.PagoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PagoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PagoPage.xaml
+
+[C:/Users/Agustin/Desktop/Proyecto Vargas TPI/SpaAppMaui/SpaApp/SpaApp/Views/ProfesionalPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SpaApp.Views.ProfesionalPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProfesionalPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProfesionalPage.xaml
+
+[C:/Users/Agustin/Desktop/Proyecto Vargas TPI/SpaAppMaui/SpaApp/SpaApp/Views/ReservaPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SpaApp.Views.ReservaPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ReservaPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ReservaPage.xaml
